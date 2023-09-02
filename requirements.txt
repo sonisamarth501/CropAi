@@ -1,0 +1,8 @@
+Flask
+matplotlib
+numpy
+os
+PIL
+tensorflow
+patlib
+pickle
